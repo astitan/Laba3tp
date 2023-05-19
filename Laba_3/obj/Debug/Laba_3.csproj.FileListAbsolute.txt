@@ -1,0 +1,90 @@
+B:\Polytech\Programs_VS\Laba_2 — копия\Laba_2\bin\Laba_3.dll.config
+B:\Polytech\Programs_VS\Laba_2 — копия\Laba_2\bin\Laba_3.dll
+B:\Polytech\Programs_VS\Laba_2 — копия\Laba_2\bin\Laba_3.pdb
+B:\Polytech\Programs_VS\Laba_2 — копия\Laba_2\bin\Microsoft.Web.Infrastructure.dll
+B:\Polytech\Programs_VS\Laba_2 — копия\Laba_2\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+B:\Polytech\Programs_VS\Laba_2 — копия\Laba_2\bin\Newtonsoft.Json.dll
+B:\Polytech\Programs_VS\Laba_2 — копия\Laba_2\bin\System.Net.Http.Formatting.dll
+B:\Polytech\Programs_VS\Laba_2 — копия\Laba_2\bin\System.Web.Helpers.dll
+B:\Polytech\Programs_VS\Laba_2 — копия\Laba_2\bin\System.Web.Http.dll
+B:\Polytech\Programs_VS\Laba_2 — копия\Laba_2\bin\System.Web.Http.WebHost.dll
+B:\Polytech\Programs_VS\Laba_2 — копия\Laba_2\bin\System.Web.Mvc.dll
+B:\Polytech\Programs_VS\Laba_2 — копия\Laba_2\bin\System.Web.Razor.dll
+B:\Polytech\Programs_VS\Laba_2 — копия\Laba_2\bin\System.Web.WebPages.Deployment.dll
+B:\Polytech\Programs_VS\Laba_2 — копия\Laba_2\bin\System.Web.WebPages.dll
+B:\Polytech\Programs_VS\Laba_2 — копия\Laba_2\bin\System.Web.WebPages.Razor.dll
+B:\Polytech\Programs_VS\Laba_2 — копия\Laba_2\bin\Newtonsoft.Json.xml
+B:\Polytech\Programs_VS\Laba_2 — копия\Laba_2\bin\System.Net.Http.Formatting.xml
+B:\Polytech\Programs_VS\Laba_2 — копия\Laba_2\bin\System.Web.Helpers.xml
+B:\Polytech\Programs_VS\Laba_2 — копия\Laba_2\bin\System.Web.Http.xml
+B:\Polytech\Programs_VS\Laba_2 — копия\Laba_2\bin\System.Web.Http.WebHost.xml
+B:\Polytech\Programs_VS\Laba_2 — копия\Laba_2\bin\System.Web.Mvc.xml
+B:\Polytech\Programs_VS\Laba_2 — копия\Laba_2\bin\System.Web.Razor.xml
+B:\Polytech\Programs_VS\Laba_2 — копия\Laba_2\bin\System.Web.WebPages.xml
+B:\Polytech\Programs_VS\Laba_2 — копия\Laba_2\bin\System.Web.WebPages.Deployment.xml
+B:\Polytech\Programs_VS\Laba_2 — копия\Laba_2\bin\System.Web.WebPages.Razor.xml
+B:\Polytech\Programs_VS\Laba_2 — копия\Laba_2\obj\Debug\Laba_3.csproj.AssemblyReference.cache
+B:\Polytech\Programs_VS\Laba_2 — копия\Laba_2\obj\Debug\Laba_3.csproj.CoreCompileInputs.cache
+B:\Polytech\Programs_VS\Laba_2 — копия\Laba_2\obj\Debug\Laba_3.csproj.CopyComplete
+B:\Polytech\Programs_VS\Laba_2 — копия\Laba_2\obj\Debug\Laba_3.dll
+B:\Polytech\Programs_VS\Laba_2 — копия\Laba_2\obj\Debug\Laba_3.pdb
+B:\Polytech\Programs_VS\Laba_3\Laba_2\bin\Laba_3.dll.config
+B:\Polytech\Programs_VS\Laba_3\Laba_2\bin\Laba_3.dll
+B:\Polytech\Programs_VS\Laba_3\Laba_2\bin\Laba_3.pdb
+B:\Polytech\Programs_VS\Laba_3\Laba_2\bin\Microsoft.Web.Infrastructure.dll
+B:\Polytech\Programs_VS\Laba_3\Laba_2\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+B:\Polytech\Programs_VS\Laba_3\Laba_2\bin\Newtonsoft.Json.dll
+B:\Polytech\Programs_VS\Laba_3\Laba_2\bin\System.Net.Http.Formatting.dll
+B:\Polytech\Programs_VS\Laba_3\Laba_2\bin\System.Web.Helpers.dll
+B:\Polytech\Programs_VS\Laba_3\Laba_2\bin\System.Web.Http.dll
+B:\Polytech\Programs_VS\Laba_3\Laba_2\bin\System.Web.Http.WebHost.dll
+B:\Polytech\Programs_VS\Laba_3\Laba_2\bin\System.Web.Mvc.dll
+B:\Polytech\Programs_VS\Laba_3\Laba_2\bin\System.Web.Razor.dll
+B:\Polytech\Programs_VS\Laba_3\Laba_2\bin\System.Web.WebPages.Deployment.dll
+B:\Polytech\Programs_VS\Laba_3\Laba_2\bin\System.Web.WebPages.dll
+B:\Polytech\Programs_VS\Laba_3\Laba_2\bin\System.Web.WebPages.Razor.dll
+B:\Polytech\Programs_VS\Laba_3\Laba_2\bin\Newtonsoft.Json.xml
+B:\Polytech\Programs_VS\Laba_3\Laba_2\bin\System.Net.Http.Formatting.xml
+B:\Polytech\Programs_VS\Laba_3\Laba_2\bin\System.Web.Helpers.xml
+B:\Polytech\Programs_VS\Laba_3\Laba_2\bin\System.Web.Http.xml
+B:\Polytech\Programs_VS\Laba_3\Laba_2\bin\System.Web.Http.WebHost.xml
+B:\Polytech\Programs_VS\Laba_3\Laba_2\bin\System.Web.Mvc.xml
+B:\Polytech\Programs_VS\Laba_3\Laba_2\bin\System.Web.Razor.xml
+B:\Polytech\Programs_VS\Laba_3\Laba_2\bin\System.Web.WebPages.xml
+B:\Polytech\Programs_VS\Laba_3\Laba_2\bin\System.Web.WebPages.Deployment.xml
+B:\Polytech\Programs_VS\Laba_3\Laba_2\bin\System.Web.WebPages.Razor.xml
+B:\Polytech\Programs_VS\Laba_3\Laba_2\obj\Debug\Laba_3.csproj.AssemblyReference.cache
+B:\Polytech\Programs_VS\Laba_3\Laba_2\obj\Debug\Laba_3.csproj.CoreCompileInputs.cache
+B:\Polytech\Programs_VS\Laba_3\Laba_2\obj\Debug\Laba_3.csproj.CopyComplete
+B:\Polytech\Programs_VS\Laba_3\Laba_2\obj\Debug\Laba_3.dll
+B:\Polytech\Programs_VS\Laba_3\Laba_2\obj\Debug\Laba_3.pdb
+B:\Polytech\Programs_VS\Laba_3 _TP\Laba_3\bin\Laba_3.dll.config
+B:\Polytech\Programs_VS\Laba_3 _TP\Laba_3\bin\Laba_3.dll
+B:\Polytech\Programs_VS\Laba_3 _TP\Laba_3\bin\Laba_3.pdb
+B:\Polytech\Programs_VS\Laba_3 _TP\Laba_3\bin\Microsoft.Web.Infrastructure.dll
+B:\Polytech\Programs_VS\Laba_3 _TP\Laba_3\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+B:\Polytech\Programs_VS\Laba_3 _TP\Laba_3\bin\Newtonsoft.Json.dll
+B:\Polytech\Programs_VS\Laba_3 _TP\Laba_3\bin\System.Net.Http.Formatting.dll
+B:\Polytech\Programs_VS\Laba_3 _TP\Laba_3\bin\System.Web.Helpers.dll
+B:\Polytech\Programs_VS\Laba_3 _TP\Laba_3\bin\System.Web.Http.dll
+B:\Polytech\Programs_VS\Laba_3 _TP\Laba_3\bin\System.Web.Http.WebHost.dll
+B:\Polytech\Programs_VS\Laba_3 _TP\Laba_3\bin\System.Web.Mvc.dll
+B:\Polytech\Programs_VS\Laba_3 _TP\Laba_3\bin\System.Web.Razor.dll
+B:\Polytech\Programs_VS\Laba_3 _TP\Laba_3\bin\System.Web.WebPages.Deployment.dll
+B:\Polytech\Programs_VS\Laba_3 _TP\Laba_3\bin\System.Web.WebPages.dll
+B:\Polytech\Programs_VS\Laba_3 _TP\Laba_3\bin\System.Web.WebPages.Razor.dll
+B:\Polytech\Programs_VS\Laba_3 _TP\Laba_3\bin\Newtonsoft.Json.xml
+B:\Polytech\Programs_VS\Laba_3 _TP\Laba_3\bin\System.Net.Http.Formatting.xml
+B:\Polytech\Programs_VS\Laba_3 _TP\Laba_3\bin\System.Web.Helpers.xml
+B:\Polytech\Programs_VS\Laba_3 _TP\Laba_3\bin\System.Web.Http.xml
+B:\Polytech\Programs_VS\Laba_3 _TP\Laba_3\bin\System.Web.Http.WebHost.xml
+B:\Polytech\Programs_VS\Laba_3 _TP\Laba_3\bin\System.Web.Mvc.xml
+B:\Polytech\Programs_VS\Laba_3 _TP\Laba_3\bin\System.Web.Razor.xml
+B:\Polytech\Programs_VS\Laba_3 _TP\Laba_3\bin\System.Web.WebPages.xml
+B:\Polytech\Programs_VS\Laba_3 _TP\Laba_3\bin\System.Web.WebPages.Deployment.xml
+B:\Polytech\Programs_VS\Laba_3 _TP\Laba_3\bin\System.Web.WebPages.Razor.xml
+B:\Polytech\Programs_VS\Laba_3 _TP\Laba_3\obj\Debug\Laba_3.csproj.AssemblyReference.cache
+B:\Polytech\Programs_VS\Laba_3 _TP\Laba_3\obj\Debug\Laba_3.csproj.CoreCompileInputs.cache
+B:\Polytech\Programs_VS\Laba_3 _TP\Laba_3\obj\Debug\Laba_3.csproj.CopyComplete
+B:\Polytech\Programs_VS\Laba_3 _TP\Laba_3\obj\Debug\Laba_3.dll
+B:\Polytech\Programs_VS\Laba_3 _TP\Laba_3\obj\Debug\Laba_3.pdb

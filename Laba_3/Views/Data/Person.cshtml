@@ -1,0 +1,40 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Person</title>
+
+</head>
+<body>
+    <h2>Person</h2>
+    @using (Html.BeginForm())
+    {
+        <div>
+            @Html.Label("Идентификатор")
+            @Html.TextBox("id_Person")
+        </div>
+        <div>
+            @Html.Label("ФИО")
+            @Html.TextBox("name")
+        </div>
+        <div>
+            @Html.Label("Дата рождения")
+            @Html.TextBox("Date_Birth", null, new { type = "date" })
+        </div>
+        <div>
+            @Html.Label("Пол")
+            @Html.DropDownList("gender", new SelectList(new[] { "Мужской", "Женский" }))
+        </div>
+        <div>
+            @Html.Label("Телефон")
+            @Html.TextBox("phone")
+        </div>
+        <div>
+            @Html.CheckBox("work")
+            @Html.Label("Наличие работы")
+        </div>
+        <input type="submit" value="Готово" />
+    }
+</body>
+</html>
